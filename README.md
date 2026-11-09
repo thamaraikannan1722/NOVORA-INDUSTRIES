@@ -86,8 +86,8 @@ HR Summary
 Add your HR Summary dashboard screenshot here.
 
 HR Analysis
-![Dashboard ()
-![Dashboard]()]
+![Dashboard (https://github.com/thamaraikannan1722/NOVORA-INDUSTRIES/blob/5221a042a3d31dea77329f72561e6d6dedde527f/POWER%20BI/novora%20image1.png)]
+![Dashboard](https://github.com/thamaraikannan1722/NOVORA-INDUSTRIES/blob/5221a042a3d31dea77329f72561e6d6dedde527f/POWER%20BI/novora%20image1.png)]
 
 📁 Project Objective
 
