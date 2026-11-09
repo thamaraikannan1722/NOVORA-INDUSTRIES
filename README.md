@@ -1,19 +1,31 @@
-# NOVORA INDUSTRIES – HR ANALYTICS DASHBOARD
+# NOVORA INDUSTRIES 
+
+HR ANALYTICS DASHBOARD
+
 📌 Project Overview
 
-The Novora Industries HR Analytics Dashboard is an interactive Power BI project designed to analyze employee data and provide meaningful insights into workforce distribution, 
-employee headcount, and HR trends.
+The Novora Industries HR Analytics Dashboard is an interactive Power BI project designed to analyze employee data and provide meaningful insights into workforce distribution
+
+employee headcount
+
+HR trends.
+
 The dashboard helps HR teams understand employee demographics, 
 
 monitor workforce changes, and make data-driven decisions.
 
 🛠️ Tools & Technologies
+
 Power BI – Dashboard Development and Data Visualization
+
 Microsoft Excel – Data Source and Data Preparation
 
 📊 Dashboard Pages
+
 1. HR Summary
+2. 
 Provides an overview of the HR Analytics Dashboard.
+
 Displays data source information.
 
 Shows the latest data refresh date.
