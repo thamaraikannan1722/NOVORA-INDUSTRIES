@@ -86,8 +86,8 @@ HR Summary
 Add your HR Summary dashboard screenshot here.
 
 HR Analysis
-
-Add your HR Analysis dashboard screenshot here.
+![Dashboard ()
+![Dashboard]()]
 
 📁 Project Objective
 
